@@ -67,7 +67,7 @@ You can download the Arduino sketch here:
 Or open the `.ino` file directly inside this repository.
 
 ---
-
+ 
 ## 🚀 Getting Started
 
 1. Connect all components according to the wiring table.
