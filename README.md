@@ -107,7 +107,7 @@ You can expand this project by adding:
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 https://youtu.be/YOUR_VIDEO_LINK
+👉 https://youtu.be/RypzDQspKsk
 
 In this video, you will see:
 
